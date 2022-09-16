@@ -1,0 +1,25 @@
+.head{
+  padding: 20px;
+  margin: 20px;
+  background-color: antiquewhite;
+  height: 550px;
+  width: 1300px;
+  border-radius:10px;
+ 
+
+}
+.text-head{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.text{
+ color: orangered;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: larger;
+ font-weight: 800; 
+}
+.btn{
+  background-color: orangered;
+  color: darkblue;
+  font-weight: bolder;
+}
